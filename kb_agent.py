@@ -4,7 +4,7 @@ import config
 
 def search_knowledge_base(query):
     """
-    Searches Weaviate for the best answer for the given math question.
+    Searches the knowledge base for the best answer to the given math question.
     Returns a step-by-step solution if found, otherwise a fallback message.
     """
     # Generate embedding for user query
@@ -20,7 +20,8 @@ def search_knowledge_base(query):
     else:
         return "❌ Sorry, I couldn't find a relevant answer in the knowledge base."
 
-# Quick test (optional)
+
+# Optional test
 if __name__ == "__main__":
     sample_query = "What is the volume of a sphere?"
     response = search_knowledge_base(sample_query)
