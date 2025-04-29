@@ -1,5 +1,5 @@
-from services.embedding_service import get_embedding
-from services.vector_store import search_collection
+from embedding_service import get_embedding
+from vector_store import search_collection
 import config
 
 def search_knowledge_base(query):
