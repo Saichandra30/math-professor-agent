@@ -1,7 +1,10 @@
 import streamlit as st
 from kb_agent import search_knowledge_base
 from web_agent import web_search
-from guardrails import is_valid_math_question  # Make sure guardrails function is in this file
+from guardrails import is_valid_math_question  # Ensure this exists
+# The following are not needed unless you use them directly in app.py
+# from embedding_service import get_embedding
+# from vector_store import search_collection
 
 st.set_page_config(page_title="📚 Math Professor Agent", page_icon="📚")
 st.title("📚 Ask the Math Professor")
