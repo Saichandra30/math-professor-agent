@@ -1,0 +1,122 @@
+[
+  {
+    "question": "What is the derivative of x^2?",
+    "answer": "The derivative of x^2 is 2x."
+  },
+  {
+    "question": "Find the value of the limit as x approaches 0 of (sin(x)/x).",
+    "answer": "The limit as x approaches 0 of (sin(x)/x) is 1."
+  },
+  {
+    "question": "Solve for x: 2x + 3 = 7",
+    "answer": "x = 2."
+  },
+  {
+    "question": "State the Pigeonhole Principle.",
+    "answer": "If n items are put into m containers, with n > m, then at least one container must contain more than one item."
+  },
+  {
+    "question": "What is the volume formula for a sphere?",
+    "answer": "Volume = (4/3)πr³."
+  },
+  {
+    "question": "Define a graph in Graph Theory.",
+    "answer": "A graph is a pair of sets (V, E) where V is a set of vertices and E is a set of edges connecting pairs of vertices."
+  },
+  {
+    "question": "What is the integral of sin(x)?",
+    "answer": "The integral of sin(x) is -cos(x) + C."
+  },
+  {
+    "question": "What is the area formula for a circle?",
+    "answer": "Area = πr²."
+  },
+  {
+    "question": "What is 5 factorial (5!)?",
+    "answer": "5! = 5 × 4 × 3 × 2 × 1 = 120."
+  },
+  {
+    "question": "What is the probability of flipping heads on a fair coin?",
+    "answer": "0.5."
+  },
+  {
+    "question": "What is the relation between sets A and B called if every element of A is related to exactly one element of B?",
+    "answer": "It is called a function."
+  },
+  {
+    "question": "What is the formula for the sum of first n natural numbers?",
+    "answer": "Sum = n(n + 1)/2."
+  },
+  {
+    "question": "What is sin(90°)?",
+    "answer": "sin(90°) = 1."
+  },
+  {
+    "question": "State De Morgan’s Law for sets.",
+    "answer": "(A ∪ B)' = A' ∩ B' and (A ∩ B)' = A' ∪ B'."
+  },
+  {
+    "question": "What is the limit of (1 + 1/n)^n as n approaches infinity?",
+    "answer": "e (Euler's number)."
+  },
+  {
+    "question": "What is the basic principle behind mathematical induction?",
+    "answer": "Prove base case is true; then prove if true for n=k, true for n=k+1."
+  },
+  {
+    "question": "Define a prime number.",
+    "answer": "A prime number has exactly two distinct positive divisors: 1 and itself."
+  },
+  {
+    "question": "What is the cardinality of a set?",
+    "answer": "The number of elements in the set."
+  },
+  {
+    "question": "Define a bijective function.",
+    "answer": "A function that is both one-to-one (injective) and onto (surjective)."
+  },
+  {
+    "question": "What is log₁₀(100)?",
+    "answer": "2."
+  },
+  {
+    "question": "What is the determinant of a 2x2 matrix [[a,b],[c,d]]?",
+    "answer": "ad - bc."
+  },
+  {
+    "question": "What is Euler’s formula connecting vertices, edges, and faces of a planar graph?",
+    "answer": "V - E + F = 2."
+  },
+  {
+    "question": "What is the probability of getting a sum of 7 with two dice?",
+    "answer": "6/36 = 1/6."
+  },
+  {
+    "question": "What is the inverse function of y = e^x?",
+    "answer": "y = ln(x)."
+  },
+  {
+    "question": "What is the derivative of ln(x)?",
+    "answer": "1/x."
+  },
+  {
+    "question": "What is the range of the function f(x) = sin(x)?",
+    "answer": "[-1, 1]"
+  },
+  {
+    "question": "What is the number of edges in a complete graph with n vertices?",
+    "answer": "n(n-1)/2."
+  },
+  {
+    "question": "What is the slope of the line passing through (1,2) and (3,6)?",
+    "answer": "(6-2)/(3-1) = 2."
+  },
+  {
+    "question": "What is an example of a non-injective function?",
+    "answer": "f(x) = x² (not one-to-one over all real numbers)."
+  },
+  {
+    "question": "What is the Greatest Common Divisor (GCD) of 48 and 18?",
+    "answer": "6."
+  }
+]
