@@ -1,7 +1,7 @@
 import streamlit as st
-from agents.kb_agent import search_knowledge_base
-from agents.web_agent import web_search
-from utils.guardrails import is_valid_math_question
+from kb_agent import search_knowledge_base
+from web_agent import web_search
+from feedback_agent import is_valid_math_question  # assuming it's in this file
 
 st.set_page_config(page_title="📚 Math Professor Agent", page_icon="📚")
 st.title("📚 Ask the Math Professor")
